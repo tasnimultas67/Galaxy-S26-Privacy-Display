@@ -19,7 +19,7 @@ const Notification = forwardRef((props, ref) => {
       </div>
       <a
         className="notif-title"
-        href="https://calculatequick.com"
+        href="https://tasnimul.vercel.app"
         target="_blank"
         rel="noopener"
       >

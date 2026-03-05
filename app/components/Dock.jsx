@@ -3,7 +3,7 @@ export default function Dock() {
     <div className="dock">
       <a
         className="dock-icon di-phone"
-        href="https://calculatequick.com"
+        href="https://tasnimul.vercel.app"
         target="_blank"
         rel="noopener"
         aria-label="Phone"
@@ -19,7 +19,7 @@ export default function Dock() {
       </a>
       <a
         className="dock-icon di-msg"
-        href="https://calculatequick.com"
+        href="https://tasnimul.vercel.app"
         target="_blank"
         rel="noopener"
         aria-label="Messages"
@@ -35,7 +35,7 @@ export default function Dock() {
       </a>
       <a
         className="dock-icon di-chrome"
-        href="https://calculatequick.com"
+        href="https://tasnimul.vercel.app"
         target="_blank"
         rel="noopener"
         aria-label="Browser"
@@ -54,7 +54,7 @@ export default function Dock() {
       </a>
       <a
         className="dock-icon di-cam"
-        href="https://calculatequick.com"
+        href="https://tasnimul.vercel.app"
         target="_blank"
         rel="noopener"
         aria-label="Camera"
